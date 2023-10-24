@@ -11,11 +11,12 @@
 - Part of various events in Tech and Arts Fests conducted at the college
 
 #### Networking:
--I believe that by collaborating and innovating with people of diverse skill sets and perspectives we can improve ourselves and contribute to various solutions and develope different prototypes that can help society and various causes.
+- I believe that by collaborating and innovating with people of diverse skill sets and perspectives we can improve ourselves and contribute to various solutions and develope different prototypes that can help society and various causes.
 - Attended various workshops, events and meetings that helped in upskilling and meeting like-minded folks
 
 #### As a Top 100 Member:
--
+By being a part of the Top 100, I wish to collaborate with the community and various companies to find solutions to real-world problems.
+  
 #### Career Plan:
 - In the short term, I'm working on upskilling myself and learning more about Cloud and Cloud technologies.
 - For the long-term, I am yet to choose a specific domian to specialise in but I have my eye on AI, Web-Development and Cloud Computing.
